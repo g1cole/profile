@@ -1,5 +1,4 @@
 # Profile
-<img src=".png" width="455" height="400">
 Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics major at the top ranked UCSD Bioinformatics Program. Strong background in laboratory research, data collection, statistical analysis, leadership, and cross-functional collaboration. Gained skills in lab bench settings, using laboratory equipment, leading teams/presenting to groups, and managing large data sets using technologies. Seeking opportunities in gaining career experiences within the Bioinformatics field.
 # Core Competencies
 - RStudio, Java, Python, Linux, C and C++
