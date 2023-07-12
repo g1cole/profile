@@ -25,7 +25,7 @@ cloning; reverse transcription; real time qPCR; BCA quantification and Western B
 # Coursework
 - Java & Python Programming and Computational Problem-Solving; Data Structure and Object-Oriented Design Programming; Computer Organization and Systems Programming; Design & Analysis of Algorithms; Genetic Biology; Cellular Biology; Molecular Biology; Structural Biochemistry; Introductory Bioinformatics Lab; Organic Chemistry; Applied Genomic Technologies, Dynamics & Diversity
 # Awards
-## Provost's Honor Roll | UC San Diego | Fall 2020 - Present*
+## Provost's Honor Roll | UC San Diego | Fall 2020 - Present
 - Given to student's who receive above a 3.5 gpa for the semester  
-## Academic Scholar Athlete | UC San Diego Men's Lacrosse Team | Spring 2021 - Spring 2023* 
+## Academic Scholar Athlete | UC San Diego Men's Lacrosse Team | Spring 2021 - Spring 2023
 - Given to a scholar athlete who maintains above a 3.25 during their sport's season
