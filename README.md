@@ -1,3 +1,4 @@
+![IMG_0894](https://github.com/g1cole/profile/assets/83433463/2dad1c37-69d4-4379-9c64-092c2533d99a)
 # Profile
 Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics major at the top ranked UCSD Bioinformatics Program. Strong background in laboratory research, data collection, statistical analysis, leadership, and cross-functional collaboration. Gained skills in lab bench settings, using laboratory equipment, leading teams/presenting to groups, and managing large data sets using technologies. Seeking opportunities in gaining career experiences within the Bioinformatics field.
 # Core Competencies
