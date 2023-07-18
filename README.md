@@ -28,6 +28,8 @@ cloning; reverse transcription; real time qPCR; BCA quantification and Western B
 - BIMM 143: [Bioinformatics Lab] Find A Gene Project
   
 # Coursework
+- CSE 185: [Advanced Bioinformatics Lab](https://g1cole.github.io/CSE185_Lab/)
+- BIMM 143: [Introductory Bioinformatics Lab](https://g1cole.github.io/bimm143/)
 - Java & Python Programming and Computational Problem-Solving; Data Structure and Object-Oriented Design Programming; Computer Organization and Systems Programming; Design & Analysis of Algorithms; Genetic Biology; Cellular Biology; Molecular Biology; Structural Biochemistry; Introductory Bioinformatics Lab; Organic Chemistry; Applied Genomic Technologies, Dynamics & Diversity
   
 # Awards
