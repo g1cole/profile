@@ -12,25 +12,26 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
   
 # Laboratory Experience
 *Undergraduate Researcher | Dr. Feng Cancer Research Lab @ UC San Diego*
-- Research specific cancer-related pathways and genes to induce and reduce tumor oncogenesis in the liver of mice via
-conducted mice surgical procedures
-- Executed NGS experiments for diverse applications including whole-genome sequencing, RNA-seq, ChIP-seq using
-data analytic tools and pipelines such as BWA, Bowtie, STAR, and DESeq2
-- Established basic molecular biology & biochemistry lab skills such as cell culture; DNA, RNA & protein extraction; gene
+- Research specific cancer-related pathways and genes to induce and reduce tumor oncogenesis in the liver of mice by
+executing NGS experiments including whole-genome sequencing, RNA-seq, and ChIP-seq along with conducted mice
+surgical procedures
+- Improved NGS library quality via utilization of NGS technologies and assays such as RNA-seq and DNA-seq and
+troubleshooting the sequencing process end-to-end
+- Established expertise of molecular biology & biochemistry lab skills such as cell culture; DNA, RNA & protein extraction; gene
 cloning; reverse transcription; real time qPCR; BCA quantification and Western Blots
-- Demonstrated basic knowledge of the hepatocellular carcinoma pathology and function of the kinase inhibitor in tumor
+- Demonstrated fundamental knowledge of the hepatocellular carcinoma pathology and function of the kinase inhibitor in tumor
  treatment
 - My day-to-day responsibilities consist of receiving large datasets from our wet lab scientists or nearby wet labs and analyzing it to give them further instructions and recommendations on their on-going projects and research. I also collaborate with other bioinformaticians and the Principal Investigator in the lab to discuss more efficient and effective practices.
   
 # Projects
-- CSE 185: [Advanced Bioinformatics Lab] findPeaks Adaptation
-- BENG 183: [Applied Genomic Technologies] RNA-Seqeunce Alignment
-- BIMM 143: [Bioinformatics Lab] Find A Gene Project
+- CSE 185: Advanced Bioinformatics Lab [findPeaks Adaptation](https://github.com/g1cole/CSE185)
+- BENG 183: Applied Genomic Technologies [RNA-Seqeunce Alignment](https://github.com/g1cole/beng183)
+- BIMM 143: Introductory Bioinformatics Lab [Find A Gene Project](https://github.com/g1cole/bimm143/blob/main/Find%20A%20Gene%20Project%20Website.pdf)
   
 # Coursework
 - CSE 185: [Advanced Bioinformatics Lab](https://g1cole.github.io/CSE185_Lab/)
 - BIMM 143: [Introductory Bioinformatics Lab](https://g1cole.github.io/bimm143/)
-- Java & Python Programming and Computational Problem-Solving; Data Structure and Object-Oriented Design Programming; Computer Organization and Systems Programming; Design & Analysis of Algorithms; Genetic Biology; Cellular Biology; Molecular Biology; Structural Biochemistry; Introductory Bioinformatics Lab; Organic Chemistry; Applied Genomic Technologies, Dynamics & Diversity
+- Java & Python Programming and Computational Problem-Solving; Data Structure and Object-Oriented Design Programming; Computer Organization and Systems Programming; Design & Analysis of Algorithms; Genetic Biology; Cellular Biology; Molecular Biology; Structural Biochemistry; Advanced Bioinformatics Lab; Organic Chemistry; Applied Genomic Technologies, Dynamics & Diversity; Biological Databases;
   
 # Awards
 *Provost's Honor Roll | UC San Diego | Fall 2020 - Present*
