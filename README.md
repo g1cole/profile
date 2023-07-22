@@ -27,12 +27,15 @@ cloning; reverse transcription; real time qPCR; BCA quantification and Western B
 - CSE 185: Advanced Bioinformatics Lab [findPeaks Adaptation](https://github.com/g1cole/CSE185)
 - BENG 183: Applied Genomic Technologies [RNA-Sequence Alignment](https://github.com/g1cole/beng183)
 - BIMM 143: Introductory Bioinformatics Lab [Find A Gene Project](https://github.com/g1cole/bimm143/blob/main/Find%20A%20Gene%20Project%20Website.pdf)
-  
+
 # Coursework
 - CSE 185: [Advanced Bioinformatics Lab](https://g1cole.github.io/CSE185_Lab/)
 - BIMM 143: [Introductory Bioinformatics Lab](https://g1cole.github.io/bimm143/)
 - Java & Python Programming and Computational Problem-Solving; Data Structure and Object-Oriented Design Programming; Computer Organization and Systems Programming; Design & Analysis of Algorithms; Genetic Biology; Cellular Biology; Molecular Biology; Structural Biochemistry; Advanced Bioinformatics Lab; Organic Chemistry; Applied Genomic Technologies, Dynamics & Diversity; Biological Databases;
-  
+
+# Publications
+- Dr. Feng Liver Cancer Lab: [Tumorigenic Index for Quantitative Analysis of Liver Cancer Initiation and Progression](https://pubmed.ncbi.nlm.nih.gov/31843886/)
+
 # Awards
 *Provost's Honor Roll | UC San Diego | Fall 2020 - Present*
 - Given to student's who receive above a 3.5 gpa for the semester
