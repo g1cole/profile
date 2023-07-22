@@ -25,7 +25,7 @@ cloning; reverse transcription; real time qPCR; BCA quantification and Western B
   
 # Projects
 - CSE 185: Advanced Bioinformatics Lab [findPeaks Adaptation](https://github.com/g1cole/CSE185)
-- BENG 183: Applied Genomic Technologies [RNA-Seqeunce Alignment](https://github.com/g1cole/beng183)
+- BENG 183: Applied Genomic Technologies [RNA-Sequence Alignment](https://github.com/g1cole/beng183)
 - BIMM 143: Introductory Bioinformatics Lab [Find A Gene Project](https://github.com/g1cole/bimm143/blob/main/Find%20A%20Gene%20Project%20Website.pdf)
   
 # Coursework
