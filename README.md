@@ -7,7 +7,7 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
 - Next Generation Sequencing, Whole Genome Sequencing, DNA-Seq, RNA-Seq, and ChIP-seq
 - Gel Electrophroresis, BCA & PCR Quantification, Western Blots, Assay Preparations, Cell Culture, and NCBI Blast
 - Research & Analysis, Attention to Detail, Time Management, Problem Solving, Independent Self-Starter, Collaborative, Verbal, Written & Digitical Communication
-- Microsoft Officee & Adobe
+- Microsoft Office & Adobe
 - Proficient in Mandarin Chinese
   
 # Laboratory Experience
