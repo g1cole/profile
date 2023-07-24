@@ -12,15 +12,18 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
   
 # Laboratory Experience
 *Undergraduate Researcher | Dr. Feng Cancer Research Lab @ UC San Diego*
-- Research specific cancer-related pathways and genes to induce and reduce tumor oncogenesis in the liver of mice by
-executing NGS experiments including whole-genome sequencing, RNA-seq, and ChIP-seq along with conducted mice
-surgical procedures
-- Improved NGS library quality via utilization of NGS technologies and assays such as RNA-seq and DNA-seq and
-troubleshooting the sequencing process end-to-end
-- Established expertise of molecular biology & biochemistry lab skills such as cell culture; DNA, RNA & protein extraction; gene
-cloning; reverse transcription; real time qPCR; BCA quantification and Western Blots
-- Demonstrated fundamental knowledge of the hepatocellular carcinoma pathology and function of the kinase inhibitor in tumor
- treatment
+- Enhanced NGS library quality by implementing cutting-edge technologies and assays like RNA-seq and DNA-seq,
+resulting in a 40% reduction in sequencing artifacts and ensuring more reliable downstream analyses
+- Reduced erroneous data by 30% and significantly improved the accuracy and reliability of bioinformatics analyses by
+applying advanced data transformation and data cleansing methodologies
+- Proficiently conducted molecular biology & biochemistry lab tasks, including cell culture; DNA, RNA & protein extraction;
+gene cloning; reverse transcription; real time qPCR; BCA quantification and Western Blots, contributing to the successful
+execution of multiple research projects
+- Investigated specific cancer-related pathways and genes to induce and reduce tumor oncogenesis in the liver of mice by
+executing NGS experiments, achieving a comprehensive understanding of tumor biology and identifying potential
+therapeutic targets
+- Acquired an in-depth understanding of hepatocellular carcinoma pathology and the role of kinase inhibitors in tumor
+treatment, facilitating the development of novel therapeutic strategies with promising outcomes
 - My day-to-day responsibilities consist of receiving large datasets from our wet lab scientists or nearby wet labs and analyzing it to give them further instructions and recommendations on their on-going projects and research. I also collaborate with other bioinformaticians and the Principal Investigator in the lab to discuss more efficient and effective practices.
   
 # Projects
