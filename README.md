@@ -12,18 +12,10 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
   
 # Laboratory Experience
 *Undergraduate Researcher | Dr. Feng Cancer Research Lab @ UC San Diego*
-- Enhanced NGS library quality by implementing cutting-edge technologies and assays like RNA-seq and DNA-seq,
-resulting in a 40% reduction in sequencing artifacts and ensuring more reliable downstream analyses
-- Reduced erroneous data by 30% and significantly improved the accuracy and reliability of bioinformatics analyses by
-applying advanced data transformation and data cleansing methodologies
-- Proficiently conducted molecular biology & biochemistry lab tasks, including cell culture; DNA, RNA & protein extraction;
-gene cloning; reverse transcription; real time qPCR; BCA quantification and Western Blots, contributing to the successful
-execution of multiple research projects
-- Investigated specific cancer-related pathways and genes to induce and reduce tumor oncogenesis in the liver of mice by
-executing NGS experiments, achieving a comprehensive understanding of tumor biology and identifying potential
-therapeutic targets
-- Acquired an in-depth understanding of hepatocellular carcinoma pathology and the role of kinase inhibitors in tumor
-treatment, facilitating the development of novel therapeutic strategies with promising outcomes
+- Replicated a tumorigenic index utilizing R, RNA-seq and bioinformatic data analyses to quantify tumorigenic signal strengths and predict the disease status and tumor stages of HCC patients
+- Managed molecular biology & biochemistry research projects, including wet-lab and dry-lab tasks, to successfully execute 15+ experiments surrounding the Shp-2 and p52 protein
+- Conducted seven surgical experiments to investigate specific HCC pathways and genes to induce tumor oncogenesis in the liver of mice and identify potential targets using NGS data analysis
+- Coordinated with 10+ senior lab members to process and analyze large DNA-, RNA-, and ChIP- seq datasets to drive research on HCC pathology and the role of kinase inhibitors via R & Python
 - My day-to-day responsibilities consist of receiving large datasets from our wet lab scientists or nearby wet labs and analyzing it to give them further instructions and recommendations on their on-going projects and research. I also collaborate with other bioinformaticians and the Principal Investigator in the lab to discuss more efficient and effective practices.
   
 # Projects
