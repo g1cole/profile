@@ -5,8 +5,8 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
 - RStudio, Java, Python, Linux, C/C++, HTML, CSS
 - AWS, Azure, Agile, Machine Learning
 - Next Generation Sequencing, Whole Genome Sequencing, DNA-Seq, RNA-Seq, and ChIP-seq
-- Gel Electrophroresis, BCA & PCR Quantification, Western Blots, Assay Preparations, Cell Culture, and NCBI Blast
-- Research & Analysis, Attention to Detail, Time Management, Problem Solving, Independent Self-Starter, Collaborative, Verbal, Written & Digitical Communication
+- Gel Electrophoresis, BCA & PCR Quantification, Western Blots, Assay Preparations, Cell Culture, and NCBI Blast
+- Research & Analysis, Attention to Detail, Time Management, Problem Solving, Independent Self-Starter, Collaborative, Verbal, Written & Digital Communication
 - Microsoft Office & Adobe
 - Proficient in Mandarin Chinese
 
@@ -47,7 +47,7 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
 
 # Awards
 *Provost's Honor Roll | UC San Diego | Fall 2020 - Present*
-- Given to student's who receive above a 3.5 gpa for the semester
+- Given to student's who receive above a 3.5 GPA for the semester
   
 *Academic Scholar Athlete | UC San Diego Men's Lacrosse Team | Spring 2021 - Spring 2023*
-- Given to a scholar athlete who maintains above a 3.25 during their sport's season
+- Given to a scholar athlete who maintains above a 3.25 GPA during their sport's season
