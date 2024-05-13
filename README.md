@@ -11,7 +11,7 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
 - Proficient in Mandarin Chinese
 
 # Projects
-- FitnessAI [Software Engineer Passion Project] | April 2024 - Presemt
+- FitnessAI [Software Engineer Passion Project] | April 2024 - Present
   - Integrated AI into Python code which automates a fitness routine based on user’s free time and gym accessibility
   - Utilizing JavaScript and React for front-end development along with Python, Django, and PostgreSQL for back-end development to transform into a mobile application for both iOS & Android
 - Stock Market Real-Time Analysis [End-to-end Data Engineering Project] | February - April 2024
