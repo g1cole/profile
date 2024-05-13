@@ -11,22 +11,22 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
 - Proficient in Mandarin Chinese
 
 # Projects
-- FitnessAI [Software Engineer Passion Project] | April 2024 - Present
+*FitnessAI [Software Engineer Passion Project] | April 2024 - Present*
   - Integrated AI into Python code which automates a fitness routine based on user’s free time and gym accessibility
   - Utilizing JavaScript and React for front-end development along with Python, Django, and PostgreSQL for back-end development to transform into a mobile application for both iOS & Android
-- Stock Market Real-Time Analysis [End-to-end Data Engineering Project] | February - April 2024
+*Stock Market Real-Time Analysis [End-to-end Data Engineering Project] | February - April 2024*
   - Designed a stock market data processing engine using Kafka and AWS to analyze data in real time
   - Produced data using AWS Boto3 (SDK for Python) and stored data onto Kafka via Amazon EC2
   - Consumed and stored data onto Amazon S3 to crawl and build an AWS Glue Data Catalog and used Amazon Athena to integrate SQL to finalize data analysis
-- COVID-Visualization [End-to-end Data Engineering Project] | November 2023 - January 2024
+*COVID-Visualization [End-to-end Data Engineering Project] | November 2023 - January 2024*
   - Produced a pipeline using Azure and Power BI to process, store, transform, model and visualize COVID data
   - Incorporated Azure Data Factory, Data Lake Gen2, Databricks, and Synapse to process and model the statistics
   - Combined Power BI for visualization and analysis to gain critical and valuable insights from the dataset
-- CSE 185: Advanced Bioinformatics Lab [findPeaks Adaptation](https://github.com/g1cole/CSE185) | March - May 2023
+*CSE 185: Advanced Bioinformatics Lab [findPeaks Adaptation](https://github.com/g1cole/CSE185) | March - May 2023*
   - Developed and demonstrated a multithreading Python tool that implemented ChIP-seq data and statistical analysis to find peaks using transcription factor data. It takes in a tag directory of the input genome and a control genome, for comparison, then outputs a .BED file containing the start and end position and p-value of each peak.
-- BENG 183: Applied Genomic Technologies [RNA-Sequence Alignment](https://github.com/g1cole/beng183) | November - December 2022
+*BENG 183: Applied Genomic Technologies [RNA-Sequence Alignment](https://github.com/g1cole/beng183) | November - December 2022*
   - Co-presented a lecture covering the key aspects of RNA-seq Alignment and the logistics of two popular alignment tools, STAR and TopHat2. Conducted a detailed comparative analysis of the two, highlighting nuanced distinctions and uncovering the respective advantages and drawbacks of each.
-- BIMM 143: Introductory Bioinformatics Lab [Find A Gene Project](https://github.com/g1cole/bimm143/blob/main/Find%20A%20Gene%20Project%20Website.pdf) | October - December 2022
+*BIMM 143: Introductory Bioinformatics Lab [Find A Gene Project](https://github.com/g1cole/bimm143/blob/main/Find%20A%20Gene%20Project%20Website.pdf) | October - December 2022*
   - Selected the novel protein “Malate Dehydrogenase” from the species Panagrolaimus to analyze and compare to related sequences using MSA, heatmaps, phylogenetic trees, atomic resolution, & 3-D modeling.
 
 # Experience
