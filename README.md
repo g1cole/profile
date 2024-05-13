@@ -30,7 +30,7 @@ Hard-working, enthusiastic, goal-oriented, and highly organized Bioinformatics m
   - Selected the novel protein “Malate Dehydrogenase” from the species Panagrolaimus to analyze and compare to related sequences using MSA, heatmaps, phylogenetic trees, atomic resolution, & 3-D modeling.
 
 # Experience
-* Bioinformatics Software Researcher | Dr. Feng Cancer Research Lab @ UC San Diego* March 2022 - March 2024
+* Bioinformatics Software Researcher | Dr. Feng Cancer Research Lab @ UC San Diego *
 - Replicated a tumorigenic index utilizing R, RNA-seq and bioinformatic data analyses to quantify tumorigenic signal strengths and predict the disease status and tumor stages of HCC patients
     - Extracted RNA from mouse liver tissues using QIAGEN RNeasy columns to create mouse models with hepatic steatosis, fibrosis, inflammation, and tumorigenesis
     - Performed RNA-seq using the multiplex analysis of polyA-linked sequence and the Illumina Hiseq2000 machine
